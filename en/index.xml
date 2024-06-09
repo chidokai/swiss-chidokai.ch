@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swiss Chidokai</title>
+    <link>http://swiss-chidokai.ch/en/</link>
+    <description>Recent content on Swiss Chidokai</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 May 2024 09:28:57 +0200</lastBuildDate>
+    <atom:link href="http://swiss-chidokai.ch/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation</title>
+      <link>http://swiss-chidokai.ch/en/posts/presentation/</link>
+      <pubDate>Fri, 10 May 2024 09:28:57 +0200</pubDate>
+      <guid>http://swiss-chidokai.ch/en/posts/presentation/</guid>
+      <description>Karatedo Chidokai Origin Chidokai is a Karatedo school in the tradition of Shoto Ryu, the Shotokan style established by Funakoshi Sensei on the basis of the teachings of Itosu Sensei and Azato Sensei. It was founded in Japan on 8 November 1954 by Takeshi Sasaki Sensei, who learned Karatedo from Funakoshi Sensei and Obata Sensei. Sasaki Sensei passed away in 1992, but his rich legacy lives on through the Japan Karatedo Chidokai (JKC).</description>
+    </item>
+  </channel>
+</rss>
