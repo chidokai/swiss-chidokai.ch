@@ -28,6 +28,19 @@
                 href="http://localhost:1313/fr/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/posts/presentation/</loc>
+    <lastmod>2024-05-10T14:52:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-CH"
+                href="http://localhost:1313/fr/posts/presentation/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
