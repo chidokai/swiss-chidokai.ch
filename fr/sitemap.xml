@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>http://swiss-chidokai.ch/fr/</loc>
     <lastmod>2024-05-10T14:52:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="http://swiss-chidokai.ch/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CH"
-                href="http://localhost:1313/fr/"
+                href="http://swiss-chidokai.ch/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/posts/</loc>
+    <loc>http://swiss-chidokai.ch/fr/posts/</loc>
     <lastmod>2024-05-10T14:52:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="http://swiss-chidokai.ch/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CH"
-                href="http://localhost:1313/fr/posts/"
+                href="http://swiss-chidokai.ch/fr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/posts/presentation/</loc>
+    <loc>http://swiss-chidokai.ch/fr/posts/presentation/</loc>
     <lastmod>2024-05-10T14:52:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/presentation/"
+                href="http://swiss-chidokai.ch/en/posts/presentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CH"
-                href="http://localhost:1313/fr/posts/presentation/"
+                href="http://swiss-chidokai.ch/fr/posts/presentation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>http://swiss-chidokai.ch/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="http://swiss-chidokai.ch/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CH"
-                href="http://localhost:1313/fr/categories/"
+                href="http://swiss-chidokai.ch/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>http://swiss-chidokai.ch/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="http://swiss-chidokai.ch/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-CH"
-                href="http://localhost:1313/fr/tags/"
+                href="http://swiss-chidokai.ch/fr/tags/"
                 />
   </url>
 </urlset>
