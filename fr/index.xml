@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chidokai Suisse</title>
-    <link>http://localhost:1313/fr/</link>
-    <description>Recent content on Chidokai Suisse</description>
-    <generator>Hugo</generator>
+    <title>Présentation on Chidokai Suisse</title>
+    <link>https://swiss-chidokai.ch/fr/</link>
+    <description>Recent content in Présentation on Chidokai Suisse</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
-    <lastBuildDate>Fri, 10 May 2024 14:52:49 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 14:52:49 +0200</lastBuildDate><atom:link href="https://swiss-chidokai.ch/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Présentation</title>
-      <link>http://localhost:1313/fr/posts/presentation/</link>
+      <link>https://swiss-chidokai.ch/fr/posts/presentation/</link>
       <pubDate>Fri, 10 May 2024 14:52:49 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/presentation/</guid>
-      <description>QUI NOUS SOMMES Créé en mai 2024 à la demande du Japan Karatedo Chidokai (JKC), Swiss-Chidokai est un réseau de Dojos Chidokai et de pratiquants du style Chidokai en Suisse. Les Dojos Swiss-Chidokai sont directement liés à la JKC et pleinement affiliés à la Fédération Suisse de Karaté, tout en maintenant des relations étroites avec des organisations apparentées en Australie, au Canada, en Inde et en Nouvelle-Zélande.&#xA;HISTORIQUE ET FORMATION Le Chidokai est une école de Karaté dans la tradition du Shoto Ryu, le style Shotokan établi par Funakoshi Sensei sur la base des enseignements d&amp;rsquo;Itosu Sensei et d&amp;rsquo;Azato Sensei.</description>
+      
+      <guid>https://swiss-chidokai.ch/fr/posts/presentation/</guid>
+      <description>QUI NOUS SOMMES Créé en mai 2024 à la demande du Japan Karatedo Chidokai (JKC), Swiss-Chidokai est un réseau de Dojos Chidokai et de pratiquants du style Chidokai en Suisse. Les Dojos Swiss-Chidokai sont directement liés à la JKC et pleinement affiliés à la Fédération Suisse de Karaté, tout en maintenant des relations étroites avec des organisations apparentées en Australie, au Canada, en Inde et en Nouvelle-Zélande.
+HISTORIQUE ET FORMATION Le Chidokai est une école de Karaté dans la tradition du Shoto Ryu, le style Shotokan établi par Funakoshi Sensei sur la base des enseignements d&amp;rsquo;Itosu Sensei et d&amp;rsquo;Azato Sensei.</description>
     </item>
+    
   </channel>
 </rss>
