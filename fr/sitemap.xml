@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swiss-chidokai.ch/fr/club/</loc>
+    <lastmod>2024-06-10T17:49:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/club/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/club/"
+                />
+  </url><url>
     <loc>https://swiss-chidokai.ch/fr/posts/</loc>
     <lastmod>2024-05-10T14:52:49+02:00</lastmod>
     <xhtml:link
