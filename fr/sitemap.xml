@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swiss-chidokai.ch/fr/news/</loc>
+    <lastmod>2025-07-28T16:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/news/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/</loc>
+    <lastmod>2025-07-28T16:59:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/"
+                />
+  </url><url>
     <loc>https://swiss-chidokai.ch/fr/contacts/</loc>
     <lastmod>2025-07-10T17:48:51+02:00</lastmod>
     <xhtml:link
@@ -13,19 +39,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://swiss-chidokai.ch/fr/contacts/"
-                />
-  </url><url>
-    <loc>https://swiss-chidokai.ch/fr/</loc>
-    <lastmod>2025-07-10T17:48:51+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://swiss-chidokai.ch/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://swiss-chidokai.ch/fr/"
                 />
   </url><url>
     <loc>https://swiss-chidokai.ch/fr/club/</loc>
