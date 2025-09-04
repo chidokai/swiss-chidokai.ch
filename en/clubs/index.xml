@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentation on Swiss Chidokai</title>
-    <link>https://swiss-chidokai.ch/en/</link>
-    <description>Recent content in Presentation on Swiss Chidokai</description>
+    <title>Clubs Swiss Chidokai on Swiss Chidokai</title>
+    <link>https://swiss-chidokai.ch/en/clubs/</link>
+    <description>Recent content in Clubs Swiss Chidokai on Swiss Chidokai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:53:15 +0200</lastBuildDate><atom:link href="https://swiss-chidokai.ch/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 17:49:06 +0200</lastBuildDate><atom:link href="https://swiss-chidokai.ch/en/clubs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All clubs</title>
       <link>https://swiss-chidokai.ch/en/clubs/clubs/</link>

@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swiss-chidokai.ch/fr/</loc>
+    <lastmod>2025-09-02T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/clubs/clubs/</loc>
+    <lastmod>2025-09-02T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/clubs/clubs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/clubs/clubs/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/clubs/bit/</loc>
+    <lastmod>2025-09-01T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/clubs/bit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/clubs/bit/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/clubs/collonge/</loc>
+    <lastmod>2025-09-01T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/clubs/collonge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/clubs/collonge/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/clubs/sdk/</loc>
+    <lastmod>2025-09-01T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/clubs/sdk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/clubs/sdk/"
+                />
+  </url><url>
+    <loc>https://swiss-chidokai.ch/fr/clubs/versoix/</loc>
+    <lastmod>2025-09-01T15:53:15+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swiss-chidokai.ch/en/clubs/versoix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://swiss-chidokai.ch/fr/clubs/versoix/"
+                />
+  </url><url>
     <loc>https://swiss-chidokai.ch/fr/news/</loc>
     <lastmod>2025-07-28T16:59:23+02:00</lastmod>
     <xhtml:link
@@ -13,19 +91,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://swiss-chidokai.ch/fr/news/"
-                />
-  </url><url>
-    <loc>https://swiss-chidokai.ch/fr/</loc>
-    <lastmod>2025-07-28T16:59:23+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://swiss-chidokai.ch/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://swiss-chidokai.ch/fr/"
                 />
   </url><url>
     <loc>https://swiss-chidokai.ch/fr/contacts/</loc>
@@ -41,17 +106,17 @@
                 href="https://swiss-chidokai.ch/fr/contacts/"
                 />
   </url><url>
-    <loc>https://swiss-chidokai.ch/fr/club/</loc>
+    <loc>https://swiss-chidokai.ch/fr/clubs/</loc>
     <lastmod>2024-06-10T17:49:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://swiss-chidokai.ch/en/club/"
+                href="https://swiss-chidokai.ch/en/clubs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://swiss-chidokai.ch/fr/club/"
+                href="https://swiss-chidokai.ch/fr/clubs/"
                 />
   </url><url>
     <loc>https://swiss-chidokai.ch/fr/categories/</loc>
